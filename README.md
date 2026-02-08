@@ -5,13 +5,13 @@ This project demonstrates practical application of **software engineering concep
 
 ---
 
-## 🔍 Overview
+##  Overview
 Code duplication is a common issue in software projects that increases maintenance cost and introduces hidden bugs.  
 This system automatically analyzes source code files and detects **exact and near-duplicate code clones**, helping improve code quality and detect plagiarism.
 
 ---
 
-## ✨ Key Highlights
+##  Key Highlights
 - Detects **exact and near-miss code clones**
 - Handles multiple source files efficiently
 - Language-independent design (easily extendable)
@@ -20,7 +20,7 @@ This system automatically analyzes source code files and detects **exact and nea
 
 ---
 
-## 🧠 Approach
+##  Approach
 1. Source code ingestion  
 2. Preprocessing (normalization & cleanup)  
 3. Tokenization / line-based analysis  
@@ -29,7 +29,7 @@ This system automatically analyzes source code files and detects **exact and nea
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python  
 - **Core Libraries:**  
   - `difflib`  
